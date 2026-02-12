@@ -1,0 +1,3 @@
+[submodule "mobile-viewer"]
+	path = mobile-viewer
+	url = https://github.com/MackSH/kyno-mobile-viewer.git
